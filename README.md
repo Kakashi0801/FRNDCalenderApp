@@ -26,7 +26,7 @@ This README file provides an overview of the application, including information 
 
 To see a demonstration of the FRNDCalenderApp, please watch the following demo video:
 
-[Demo Video](https://drive.google.com/file/d/1GnUZS4UNx1JEgBB23IqLxSsfMBSBkkRY/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1xNxD6SUIVuVYhqXOFc6QaOT4t5CPRZe2/view?usp=sharing)
 
 ## Imp Decisions
 
@@ -37,6 +37,8 @@ To see a demonstration of the FRNDCalenderApp, please watch the following demo v
 
 ## APK Download
 
-To download the debug APK of the Groww Beats Android application, click the link below:
+To download the debug APK of the FRNDCalenderApp Android application, click the link below:
 
-[Download APK](https://drive.google.com/file/d/1KmteEtROvm3MuX-0IFf1OFwCyorl7rkC/view?usp=sharing)
+[Download Debug APK](https://drive.google.com/file/d/1XvH519Z4f9NC4FZ-WykfJv6dkeukF7JQ/view?usp=sharing)
+[Download Apk](https://drive.google.com/file/d/1TcySm7bqQK1eL0kEBasIn2zAOERdmGHg/view?usp=sharing)
+
